@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Sasikumar072004
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Frontend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on instagram @sasikumarxz
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Sasikumar072004/Sasikumar072004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 Frontend Developer
+✨ Passionate about building interactive and responsive web applications.
+💡 Skilled in HTML, CSS, and JavaScript to create clean, efficient code.
+⚛️ Experienced with React.js for building dynamic, component-based UIs.
+🎨 Proficient in using TailwindCSS and Bootstrap for styling responsive layouts.
+🌐 Focused on delivering seamless user experiences across devices.
+🔍 Always learning new tools and techniques to enhance frontend development.
+🚀 Eager to collaborate on projects that push the boundaries of web design.
+🛠️ Always open to exploring new technologies in frontend development.
+📈 Committed to writing maintainable code and improving app performance.
