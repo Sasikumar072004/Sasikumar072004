@@ -1,83 +1,61 @@
 Hi there, I'm Sasikumar 👋
 
-🚀 About Me
+💻 Front-End Developer | Aspiring Java Developer | Tech Enthusiast
 
-I am a passionate Front-End Developer and a Postgraduate MCA student at Rathinam Technical Campus, Coimbatore. With a strong foundation in web development, I specialize in building modern, responsive, and high-performance applications using React.js, Next.js, and Tailwind CSS.
+Welcome to my GitHub profile! I'm a passionate front-end developer with experience in building responsive web applications. Currently, I'm expanding my skills in Java development to enhance my career opportunities.
 
-🔹 Portfolio: sasimca.vercel.app
+About Me
 
-💼 Work Experience
+🌱 I’m learning Java, focusing on OOP concepts and backend development.🖥️ Exploring Spring Boot for building scalable applications.📖 Gaining hands-on experience with database management using MySQL.🐧 Practicing Linux command-line usage for development and server management.
 
-Nextriad Solutions - Freelance Front-End Developer (12/2024 - Present)
+My Development Work
 
-📍 Coimbatore, India
+Projects I've Worked On:
 
-Designed and developed interactive, user-friendly web applications using React.js and Tailwind CSS.
+Personal Portfolio – A responsive portfolio website built with React.js, Tailwind CSS, and Firebase.
 
-Led the front-end development for the Vinayaga Crackers e-commerce platform, ensuring a seamless shopping experience.
+Vinayaga Crackers Frontend – Developed an e-commerce front-end using React.js and Tailwind CSS.
 
-Built a Feedback Form system for collecting and managing customer feedback using Firebase.
+Feedback Form - Nextriad Solutions – A feedback form with Firebase integration for secure data storage.
 
-Optimized web applications for better performance and responsiveness across multiple devices.
+Crackers Shop Management System – A web-based management system focusing on user interaction and responsiveness.
 
-🎓 Education
+Skills
 
-Master of Computer Applications (MCA)
-
-📍 Rathinam Technical Campus, Coimbatore(Pursuing)
-
-Bachelor of Commerce with Computer Applications
-
-📍 Sri S. Ramasamy Naidu Memorial College, SatturGraduated
-
-🛠 Tech Stack
-
-Front-end Development:
-
-React.js, Next.js
+Front-end Technologies:
 
 HTML5, CSS3, JavaScript
+
+React.js, Next.js
 
 Tailwind CSS, Bootstrap
 
 Programming Languages:
 
-JavaScript
+C, JavaScript
 
-C Language
+Java (OOP and inheritance concepts)
 
-Basic Java (OOP & Inheritance concepts)
+Backend & Database:
 
-Development Tools:
+Firebase
+
+MySQL (Learning)
+
+Tools & Environments:
+
+Linux (Ubuntu)
 
 Git, GitHub
 
-npm, yarn
+npm, yarn, Webpack
 
-Webpack
+Connect with Me
 
-Operating System:
+📌 LinkedIn📌 GitHub📌 Portfolio
 
-Linux
+Fun Facts
 
-🌟 Projects
+📂 I enjoy working with Linux and optimizing my workflow with terminal commands.💡 Passionate about building scalable and efficient applications while expanding my knowledge in Java.
 
-Personal Portfolio
-
-🚀 Built a sleek, modern, and responsive portfolio to showcase my projects and skills.🔗 View Portfolio
-
-Vinayaga Crackers - E-commerce Frontend
-
-🛍️ Developed a fully responsive front-end for a fireworks store using React.js and Tailwind CSS.
-
-Feedback Form - Nextriad Solutions
-
-💬 Created a feedback collection system with Firebase Firestore for secure data storage and Firebase Authentication for admin access.
-
-📫 Connect with Me
-
-🔗 GitHub: github.com/Sasikumar072004🔗 
-LinkedIn: linkedin.com/in/sasikumarmca
-Email: sasi93602075@gmail.com
-
-Thanks for visiting my profile! Feel free to connect with me. 🚀
+Thanks for checking out my profile! Feel free to connect or reach out for collaborations! 🚀
