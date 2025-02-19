@@ -76,7 +76,9 @@ Feedback Form - Nextriad Solutions
 
 📫 Connect with Me
 
-🔗 GitHub: github.com/SasikumarMCA🔗 LinkedIn: linkedin.com/in/sasikumar📧 Email: sasikumar@example.com
+🔗 GitHub: github.com/SasikumarMCA
+🔗 LinkedIn: linkedin.com/in/sasikumar
+📧 Email: sasi93602075@gmail.com
 
 Thanks for visiting my profile! Feel free to connect with me. 🚀
 
