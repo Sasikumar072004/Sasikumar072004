@@ -1,84 +1,73 @@
-Hi there, I'm Sasikumar 👋
+# 👋 Hi there, I'm Sasikumar!
 
-🚀 About Me
+🚀 A passionate **Front-End Developer** and a Postgraduate **MCA** student from Rathinam Technical Campus, Coimbatore.  
+I specialize in building modern, responsive, and high-performance web applications using **React.js**, **Next.js**, and **Tailwind CSS**.
 
-I am a passionate Front-End Developer and a Postgraduate MCA student at Rathinam Technical Campus, Coimbatore. With a strong foundation in web development, I specialize in building modern, responsive, and high-performance applications using React.js, Next.js, and Tailwind CSS.
+> 🎯 Turning ideas into interactive digital experiences.
 
-🔹 Portfolio: sasimca.vercel.app
+---
 
-💼 Work Experience
+## 🧑‍💻 About Me
 
-Nextriad Solutions - Freelance Front-End Developer (12/2024 - Present)
+- 🎓 MCA (Pursuing) – *Rathinam Technical Campus, Coimbatore*  
+- 🎓 B.Com (Computer Applications) – *Sri S. Ramasamy Naidu Memorial College, Sattur*
+- 🌍 Based in **Coimbatore, India**
+- 🔗 Portfolio: [sasikumarmca.vercel.app](https://sasikumarmca.vercel.app/)
+- 🧠 Currently exploring **Java**, **Firebase**, and **React Native**
 
-📍 Coimbatore, India
+---
 
-Designed and developed interactive, user-friendly web applications using React.js and Tailwind CSS.
+## 💼 Work Experience
 
-Led the front-end development for the Vinayaga Crackers e-commerce platform, ensuring a seamless shopping experience.
+### **Freelance Front-End Developer** *(Dec 2024 – Present)*  
+📍 *Coimbatore, India*
 
-Built a Feedback Form system for collecting and managing customer feedback using Firebase.
+- 🛠 Built dynamic, user-friendly web interfaces using **React.js** and **Tailwind CSS**
+- 🧨 Developed an e-commerce frontend for a fireworks store with optimized UX
+- 💬 Created a feedback form system using **Firebase** (Firestore & Authentication)
+- 📱 Ensured performance, responsiveness, and mobile-first design across devices
 
-Optimized web applications for better performance and responsiveness across multiple devices.
+---
 
-🎓 Education
+## 🌐 Tech Stack
 
-Master of Computer Applications (MCA)
+### **Front-End:**
+- React.js, Next.js  
+- HTML5, CSS3, JavaScript  
+- Tailwind CSS, Bootstrap  
 
-📍 Rathinam Technical Campus, Coimbatore(Pursuing)
+### **Programming:**
+- JavaScript  
+- C Language  
+- Basic Java (OOP, Inheritance)
 
-Bachelor of Commerce with Computer Applications
+### **Tools & Platforms:**
+- Git & GitHub  
+- npm, yarn  
+- Webpack  
+- Linux OS  
 
-📍 Sri S. Ramasamy Naidu Memorial College, SatturGraduated
+---
 
-🛠 Tech Stack
+## 🚀 Projects
 
-Front-end Development:
+### 🌟 [Personal Portfolio](https://sasikumarmca.vercel.app/)
+A sleek and modern portfolio built using **React.js** and **Tailwind CSS** to showcase my work and skills.
 
-React.js, Next.js
+### 🧨 [Vinayaga Crackers – E-commerce Frontend](https://github.com/Sasikumar072004/vinayaga-crackers-frontend)
+Fully responsive web interface for an online fireworks store with intuitive design and seamless navigation.
 
-HTML5, CSS3, JavaScript
+### 💬 Feedback Form System
+A Firebase-powered feedback collection tool with secure admin access and real-time data handling.
 
-Tailwind CSS, Bootstrap
+---
 
-Programming Languages:
+## 📫 Connect with Me
 
-JavaScript
+- 🔗 GitHub: [github.com/Sasikumar072004](https://github.com/Sasikumar072004)  
+- 🔗 LinkedIn: [linkedin.com/in/sasikumarmca](https://linkedin.com/in/sasikumarmca)  
+- 📧 Email: [sasi93602075@gmail.com](mailto:sasi93602075@gmail.com)
 
-C Language
+---
 
-Basic Java (OOP & Inheritance concepts)
-
-Development Tools:
-
-Git, GitHub
-
-npm, yarn
-
-Webpack
-
-Operating System:
-
-Linux
-
-🌟 Projects
-
-Personal Portfolio
-
-🚀 Built a sleek, modern, and responsive portfolio to showcase my projects and skills.🔗 View Portfolio
-
-Vinayaga Crackers - E-commerce Frontend
-
-🛍️ Developed a fully responsive front-end for a fireworks store using React.js and Tailwind CSS.
-
-Feedback Form - Nextriad Solutions
-
-💬 Created a feedback collection system with Firebase Firestore for secure data storage and Firebase Authentication for admin access.
-
-📫 Connect with Me
-
-🔗 GitHub: github.com/SasikumarMCA
-🔗 LinkedIn: linkedin.com/in/sasikumar
-📧 Email: sasi93602075@gmail.com
-
-Thanks for visiting my profile! Feel free to connect with me. 🚀
-
+*Thanks for visiting! Let’s connect and create something impactful together.* 🚀
