@@ -38,8 +38,7 @@ I specialize in building modern, responsive, and high-performance web applicatio
 
 ### **Programming:**
 - JavaScript  
-- C Language  
-- Basic Java (OOP, Inheritance)
+- C Language 
 
 ### **Tools & Platforms:**
 - Git & GitHub  
