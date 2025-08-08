@@ -66,7 +66,7 @@ A Firebase-powered feedback collection tool with secure admin access and real-ti
 
 - 🔗 GitHub: [github.com/Sasikumar072004](https://github.com/Sasikumar072004)  
 - 🔗 LinkedIn: [linkedin.com/in/sasikumarmca](https://linkedin.com/in/sasikumarmca)  
-- 📧 Email: [sasi93602075@gmail.com](mailto:sasi93602075@gmail.com)
+- 📧 Email: [sasi93602075@gmail.com](mailto:sasimca.dev@gmail.com)
 
 ---
 
